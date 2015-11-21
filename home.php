@@ -12,7 +12,6 @@
         ?>
     
     <div class="home_content">
-        
 
         
             <canvas id="canvas">Image Slide Show will be here!</canvas>
